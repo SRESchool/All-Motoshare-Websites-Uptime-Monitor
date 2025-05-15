@@ -40,7 +40,8 @@ sites:
     ssl: true
   - name: MotoShare Africa
     url: https://motoshareafrica.com
-    ssl: true    port: 80
+    ssl: true    
+    port: 80
     check: "tcp-ping"
     ipv6: true
 
