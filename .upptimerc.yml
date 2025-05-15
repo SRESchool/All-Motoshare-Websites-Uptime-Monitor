@@ -59,14 +59,10 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-jobs:
-  update:
-    runs-on: ubuntu-latest
-
 # Workflow schedule (every 5 minutes)
 workflowSchedule:
   graphs: "*/5 * * * *"
-  responseTime: "*/5 * * * *"
+  responseTime: "*/15 * * * *"
   staticSite: "*/5 * * * *"
   summary: "*/5 * * * *"
   updateTemplate: "*/5 * * * *"
