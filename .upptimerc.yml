@@ -20,30 +20,66 @@ sites:
     ssl: true
   - name: MotoShare Canada
     url: https://motoshare.ca
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    maxRedirects: 5
     ssl: true
   - name: MotoShare Colombia
     url: https://motoshare.co
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    maxRedirects: 5
     ssl: true
   - name: MotoShare China
     url: https://motoshare.com.cn
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    maxRedirects: 5
     ssl: true
   - name: MotoShare Indonesia
     url: https://motoshare.id
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    maxRedirects: 5
     ssl: true
   - name: MotoShare India
     url: https://motoshare.in
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    maxRedirects: 5
     ssl: true
   - name: MotoShare Mexico
     url: https://motoshare.mx
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    maxRedirects: 5
     ssl: true
   - name: MotoShare Japan
     url: https://motoshare.jp
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    maxRedirects: 5
     ssl: true
   - name: MotoShare USA
     url: https://motoshare.us
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    maxRedirects: 5
     ssl: true
   - name: MotoShare Africa
     url: https://motoshareafrica.com
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    maxRedirects: 5
     ssl: true    
     port: 80, 443
     check: "tcp-ping"
