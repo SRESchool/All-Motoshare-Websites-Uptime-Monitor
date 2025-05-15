@@ -46,7 +46,7 @@ sites:
     method: GET
     followRedirects: true
     expectedStatus: 200
-   ssl: true
+    ssl: true
   - name: MotoShare Mexico
     url: https://motoshare.mx
     method: GET
