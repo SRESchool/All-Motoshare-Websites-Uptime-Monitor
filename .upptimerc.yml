@@ -13,6 +13,10 @@ skipTopics: true
 sites:
   - name: MotoShare Asia
     url: https://motoshare.asia
+    method: GET
+    followRedirects: true
+    expectedStatus: 200
+    maxRedirects: 5
     ssl: true
   - name: MotoShare Canada
     url: https://motoshare.ca
