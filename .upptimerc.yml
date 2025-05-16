@@ -93,7 +93,7 @@ status-website:
 # Workflow schedule (every 5 minutes)
 workflowSchedule:
   graphs: "*/5 * * * *"
-  responseTime: "*/15 * * * *"
+  responseTime: "*/5 * * * *"
   staticSite: "*/5 * * * *"
   summary: "*/5 * * * *"
   updateTemplate: "*/5 * * * *"
