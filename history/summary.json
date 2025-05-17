@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/motoshare.com.cn.ico",
     "slug": "moto-share-china",
     "status": "down",
-    "uptime": "97.51%",
-    "uptimeDay": "95.26%",
-    "uptimeWeek": "97.51%",
-    "uptimeMonth": "97.51%",
-    "uptimeYear": "97.51%",
+    "uptime": "97.38%",
+    "uptimeDay": "95.01%",
+    "uptimeWeek": "97.38%",
+    "uptimeMonth": "97.38%",
+    "uptimeYear": "97.38%",
     "time": 1564,
     "timeDay": 1592,
     "timeWeek": 1564,
     "timeMonth": 1564,
     "timeYear": 1564,
     "dailyMinutesDown": {
-      "2025-05-17": 68
+      "2025-05-17": 72
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/motoshare.id.ico",
     "slug": "moto-share-indonesia",
     "status": "down",
-    "uptime": "97.51%",
-    "uptimeDay": "95.26%",
-    "uptimeWeek": "97.51%",
-    "uptimeMonth": "97.51%",
-    "uptimeYear": "97.51%",
+    "uptime": "97.38%",
+    "uptimeDay": "95.00%",
+    "uptimeWeek": "97.38%",
+    "uptimeMonth": "97.38%",
+    "uptimeYear": "97.38%",
     "time": 1401,
     "timeDay": 1417,
     "timeWeek": 1401,
     "timeMonth": 1401,
     "timeYear": 1401,
     "dailyMinutesDown": {
-      "2025-05-17": 68
+      "2025-05-17": 72
     }
   },
   {
@@ -137,18 +137,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/motoshare.jp.ico",
     "slug": "moto-share-japan",
     "status": "down",
-    "uptime": "97.51%",
-    "uptimeDay": "95.27%",
-    "uptimeWeek": "97.51%",
-    "uptimeMonth": "97.51%",
-    "uptimeYear": "97.51%",
+    "uptime": "97.38%",
+    "uptimeDay": "95.00%",
+    "uptimeWeek": "97.38%",
+    "uptimeMonth": "97.38%",
+    "uptimeYear": "97.38%",
     "time": 1490,
     "timeDay": 1536,
     "timeWeek": 1490,
     "timeMonth": 1490,
     "timeYear": 1490,
     "dailyMinutesDown": {
-      "2025-05-17": 68
+      "2025-05-17": 72
     }
   },
   {
@@ -186,7 +186,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 496,
+      "2025-05-17": 500,
       "2025-05-16": 1440,
       "2025-05-15": 803
     }
