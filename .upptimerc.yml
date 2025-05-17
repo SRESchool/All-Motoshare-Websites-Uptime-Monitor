@@ -110,7 +110,7 @@ committer:
 notifications:
   - type: email
     smtpTo: contact@motoshare.in
-    smtpFrom: contact@motoshare.in
+    smtpFrom: pritesh.cotocus@gmail.com
     smtpHost: smtp.gmail.com
     smtpPort: 587
     smtpUsername: contact@motoshare.in
