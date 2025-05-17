@@ -71,7 +71,7 @@ sites:
     followRedirects: true
     expectedStatus: 200
     ssl: true    
-    port: 80, 443
+    port: 80
     check: "tcp-ping"
     ipv6: true
 
